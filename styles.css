@@ -1,4 +1,11 @@
 body {
     color: lab(0.86% 2.62 0.92);
-    background: #eaeceef7;
+    background: #4387cbf7;
+    margin: 0px
+}
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
 }
